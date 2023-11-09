@@ -7,8 +7,7 @@
 - [Sobre](#sobre)
 - [Como executar o projeto](#como-executar-o-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Contribuições](#contribuições-)
-- [Implementando o spring security](#spring-security)
+- [Contribuições](#contribuicoes)
 
 ## Sobre
 
