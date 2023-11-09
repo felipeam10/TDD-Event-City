@@ -7,7 +7,7 @@
 - [Sobre](#sobre)
 - [Como executar o projeto](#como-executar-o-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Contribuições](#contribuicoes)
+- [Como Contribuir](#como-contribuir)
 
 ## Sobre
 
