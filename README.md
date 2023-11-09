@@ -52,7 +52,7 @@ Antes de iniciar, assegure-se de ter o ambiente Java corretamente configurado em
 
 [Voltar ao Índice](#índice)
 
-## Contribuições 
+## Como Contribuir
 
 Caso tenha uma contribuição que possa melhorar este projeto, por favor, abra uma issue ou um pull request, seguindo os passos abaixo.
 
